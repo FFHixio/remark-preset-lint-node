@@ -59,7 +59,7 @@
     "remark-lint-table-pipes": "^3.0.0",
     "remark-lint-unordered-list-marker-style": "^2.0.0",
     "remark-preset-lint-recommended": "^5.0.0",
-    "semver": "^7.3.2"
+    "semver": "^7.3.4"
   },
   "devDependencies": {
     "lockfile-lint": "^4.2.2",
